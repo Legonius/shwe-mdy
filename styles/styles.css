@@ -288,7 +288,7 @@ li {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  padding: 20rem !important;
+  padding: 0 10% !important;
 }
 .semi-container h3 {
   font-size: 3rem !important;
