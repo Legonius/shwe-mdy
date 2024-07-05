@@ -1,0 +1,14 @@
+.swiper {
+  width: 600px;
+  height: 300px;
+}
+.swiper-wrapper {
+  width: 100%;
+}
+.swiper-slide {
+  /* background-size: contain;
+  background-repeat: no-repeat; */
+  width: 100%;
+  object-fit: contain;
+  object-position: center;
+}
